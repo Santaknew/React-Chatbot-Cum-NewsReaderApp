@@ -2,6 +2,10 @@
 
 This is a news reader application with voice recognisation. I have used ALAN AI STUDIO for voice recognisation purpose.
 
+## Special links :
+<a href="https://alan.app/">Click here to learn more about Alan</a>
+<a href="https://newsapi.org/">Click here for API Source</a>
+
 ## ALAN AI CODE :
 ```
 // Use this sample to create your own voice commands
