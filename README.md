@@ -2,7 +2,7 @@
 
 This is a news reader application with voice recognisation. I have used ALAN AI STUDIO for voice recognisation purpose.
 
-##ALAN AI CODE :
+## ALAN AI CODE :
 ```
 // Use this sample to create your own voice commands
 intent('What does this app do?', 'What can I do here?', p=>  {
